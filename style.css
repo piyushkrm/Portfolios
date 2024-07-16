@@ -550,6 +550,10 @@ section{
 
 }
 
+.contact-list li a {
+    transform: scale(1.01) translateY(-5px);
+    color: white;
+}
 .contact-list li a:hover {
     transform: scale(1.01) translateY(-5px);
     color: #ffee10;
